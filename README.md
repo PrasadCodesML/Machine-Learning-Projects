@@ -1,2 +1,2 @@
-# Prasad_Projects
-mechanical
+# This is my personal machine learning projects repo 
+
