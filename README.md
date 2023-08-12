@@ -3,4 +3,5 @@
 ## Projects
 
 ### 1. Heart Disease Classifier
+### 2. Titanic Survival Prediction
 
