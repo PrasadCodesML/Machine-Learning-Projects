@@ -8,4 +8,5 @@
 ### 4. House Price Prediction
 ### 5. Car Price Prediction
 ### 6. Laptop Price Prediction
+### 7. Flight Price Prediction
 
